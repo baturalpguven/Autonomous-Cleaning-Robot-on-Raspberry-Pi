@@ -35,3 +35,12 @@ For manual control, an Android mobile phone is used which will be connected to t
 
 
 
+You can see the demonstration of the project:
+
+<p align="center">
+  <a href="https://youtu.be/4zjsMoJlkdo">
+    <img src="https://img.youtube.com/vi/-4zjsMoJlkdo/0.jpg" alt="Thumbnail">
+  </a>
+</p>
+
+
