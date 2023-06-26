@@ -74,4 +74,6 @@ An Android mobile phone is employed for manual control of the robot. It is conne
 </p>
 
 
+## Special Thanks
+Especially thanks to my esteemed group members for helping in the development process of this project.
 
