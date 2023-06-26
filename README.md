@@ -9,14 +9,14 @@ To achieve this objective, an autonomous cleaning robot based on Raspberry Pi is
 To execute the code, a working understanding of  <a href="https://github.com/tensorflow/examples/blob/master/lite/examples/object_detection/raspberry_pi/README.md"> TensorFlow Lite</a>  is necessary. The classif.py file and the provided pre-trained weights can be utilized. The movement_subprocess_OB_Database_bluetooth.py, movement_subprocess.py, and draw_on_images.py files should be executed in the same directory. Please note that while the app developed by our team is not available, a custom Android Studio app will suffice for running the project.
 
 # Diagram of the Working Principle of the Project
-![image](https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/369dfb3e-08f8-4986-ae45-eb2d100597a0)
+
 
 <p align="center">
 <img src="https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/369dfb3e-08f8-4986-ae45-eb2d100597a0" align = "center" width="50%" height="50%">
 </p>
 
 # Implemantation of the Project
-![image](https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/19868ea5-7dca-4f5f-8f5e-0956e88f6101)
+
 
 <p align="center">
 <img src="https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/19868ea5-7dca-4f5f-8f5e-0956e88f6101" align = "center" width="50%" height="50%">
@@ -59,7 +59,7 @@ The USB camera, situated on the second floor of the robot, provides a broader fi
 ## Android Mobile App
 An Android mobile phone is employed for manual control of the robot. It is connected to the Raspberry Pi via the Bluetooth protocol, allowing users to manually control the robot when necessary. Furthermore, the mobile phone serves as a display interface for viewing data regarding encountered objects, which is transmitted from the Raspberry Pi via the Google Firebase platform using Wi-Fi communication protocols.
 
-![image](https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/60867e2f-42f4-4e9b-8e2c-3f5beea7dc09)
+
 
 <p align="center">
 <img src="(https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/60867e2f-42f4-4e9b-8e2c-3f5beea7dc09" align = "center" width="50%" height="50%">
