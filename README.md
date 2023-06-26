@@ -3,15 +3,15 @@
 
 This project aims to address the time-consuming and physically demanding nature of traditional cleaning techniques by developing an intelligent cleaning robot using IoT technologies. The robot's capabilities would not only reduce the time and effort required for cleaning but also improve the overall quality of cleaning. This would benefit homeowners, office and building managers, the hotel sector, as well as hospitals and healthcare facilities that require high cleanliness standards. The target audience is diverse.
 
-To achieve this goal, a Raspberry Pi-based autonomous cleaning robot is utilized. The robot is designed to identify and locate objects, transmit information to a dedicated app, and be remotely controlled. Three crucial aspects are considered during the development process: processing power, software speed for data collection, and robot indoor localization. Quantized object detection models based on TensorFlow Lite are used to optimize processing power. A 15-second speed for comprehensive cleaning is deemed sufficient. Indoor localization is achieved using UWB-based techniques due to the limitations of GPS. The development process primarily relies on Bluetooth and Wi-Fi for wireless communication, with the addition of UWB for localization needs.
+To achieve this goal, a Raspberry Pi-based autonomous cleaning robot is utilized. The robot is designed to identify and locate objects, transmit information to a dedicated app, and be remotely controlled. Three crucial aspects are considered during the development process: processing power, software speed for data collection, and robot indoor localization. Quantized object detection models based on <a href="https://github.com/tensorflow/examples/blob/master/lite/examples/object_detection/raspberry_pi/README.md"> TensorFlow Lite</a> are used to optimize processing power. A 15-second speed for comprehensive cleaning is deemed sufficient which is the update time of the app. Indoor localization is achieved using UWB-based techniques due to the limitations of GPS. Manual control of the development process primarily relies on Bluetooth and Wi-Fi for wireless communication, with the addition of UWB for localization needs.
 
-The project has achieved partial autonomy in the robot's movement, although further improvements are required. The manual movement of the robot functions smoothly. Despite some limitations in the chosen object detection model's classification accuracy, the transmission and classification of detected objects to the app are successful. The built-in software accurately recognizes objects, while the object localization accuracy of the team's app is comparatively lower.
 
+## Diagram of the Working Principle of the Project
 <p align="center">
 <img src="https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/88fa07fd-02c2-48ef-8dd4-7a03682d9eb3" align = "center" width="50%" height="50%">
 </p>
 
-
+# Implemantation of the Project
 <p align="center">
 <img src="https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/2e8f80d6-0c2c-4712-9a08-4266b5f3bfc5" align = "center" width="50%" height="50%">
 </p>
