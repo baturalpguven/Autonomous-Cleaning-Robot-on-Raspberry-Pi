@@ -13,7 +13,7 @@ The project has achieved partial autonomy in the robot's movement, although furt
 
 
 <p align="center">
-<img src="https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/2e8f80d6-0c2c-4712-9a08-4266b5f3bfc5" align = "center" >
+<img src="https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/2e8f80d6-0c2c-4712-9a08-4266b5f3bfc5" align = "center" width="50%" height="50%">
 </p>
 
 
@@ -42,7 +42,7 @@ The USB camera will be used to utilize object detection and will be on the secon
 For manual control, an Android mobile phone is used which will be connected to the Raspberry Pi via Bluetooth protocol to control the robot manually when it is needed. Also, the data about the encountered object which comes from Raspberry Pi via Google Firebase can be seen in the mobile phone via Wi-Fi communication protocol. 
 
 <p align="center">
-<img src="https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/df55a3d0-2942-4f4b-af58-b3e1d00a4f23" align = "center" >
+<img src="https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/df55a3d0-2942-4f4b-af58-b3e1d00a4f23" align = "center" width="50%" height="50%">
 </p>
 
 
