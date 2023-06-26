@@ -7,10 +7,16 @@ To achieve this goal, a Raspberry Pi-based autonomous cleaning robot is utilized
 
 The project has achieved partial autonomy in the robot's movement, although further improvements are required. Manual movement of the robot functions smoothly. Despite some limitations in the chosen object detection model's classification accuracy, the transmission and classification of detected objects to the app are successful. The built-in software accurately recognizes objects, while the object localization accuracy of the team's app is comparatively lower.
 
+<p align="center">
+<img src="https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/88fa07fd-02c2-48ef-8dd4-7a03682d9eb3" align = "center" >
+</p>
 
-![workflow](https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/88fa07fd-02c2-48ef-8dd4-7a03682d9eb3)
 
-![implemantation](https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/2e8f80d6-0c2c-4712-9a08-4266b5f3bfc5)
+<p align="center">
+<img src="https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/2e8f80d6-0c2c-4712-9a08-4266b5f3bfc5" align = "center" >
+</p>
+
+
 
 
 ## 1. Raspberry Pi 3B+
@@ -35,8 +41,6 @@ For manual control, an Android mobile phone is used which will be connected to t
 <p align="center">
 <img src="https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/df55a3d0-2942-4f4b-af58-b3e1d00a4f23" align = "center" >
 </p>
-![app](https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/df55a3d0-2942-4f4b-af58-b3e1d00a4f23)
-
 
 
 You can see the demonstration of the project:
