@@ -8,7 +8,7 @@ To achieve this objective, an autonomous cleaning robot based on Raspberry Pi is
 ##Running the Code
 To execute the code, a working understanding of TensorFlow Lite is necessary. The classif.py file and the provided pre-trained weights can be utilized. The movement_subprocess_OB_Database_bluetooth.py, movement_subprocess.py, and draw_on_images.py files should be executed in the same directory. Please note that while the app developed by our team is not available, a custom Android Studio app will suffice for running the project.
 
-## Diagram of the Working Principle of the Project
+# Diagram of the Working Principle of the Project
 <p align="center">
 <img src="https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/88fa07fd-02c2-48ef-8dd4-7a03682d9eb3" align = "center" width="50%" height="50%">
 </p>
