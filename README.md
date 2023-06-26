@@ -5,7 +5,7 @@ This project aims to mitigate the time-consuming and physically demanding aspect
 
 To achieve this objective, an autonomous cleaning robot based on Raspberry Pi is employed. The robot is equipped with capabilities for object identification, localization, information transmission to a dedicated app, and remote control. The development process focuses on three crucial aspects: processing power, software speed for data collection, and indoor localization. Quantized object detection models based on  <a href="https://github.com/tensorflow/examples/blob/master/lite/examples/object_detection/raspberry_pi/README.md"> TensorFlow Lite</a> , a widely-used framework for machine learning, are utilized to optimize processing power. For comprehensive cleaning, a 15-second update time is deemed sufficient for the app. Indoor localization leverages UWB-based techniques due to the limitations of GPS. Firebase serves as the primary database, and a pre-trained object detection model is employed. The development process utilizes Bluetooth and Wi-Fi for wireless communication, with the inclusion of UWB to address localization requirements.
 
-##Running the Code
+## Running the Code
 To execute the code, a working understanding of TensorFlow Lite is necessary. The classif.py file and the provided pre-trained weights can be utilized. The movement_subprocess_OB_Database_bluetooth.py, movement_subprocess.py, and draw_on_images.py files should be executed in the same directory. Please note that while the app developed by our team is not available, a custom Android Studio app will suffice for running the project.
 
 # Diagram of the Working Principle of the Project
