@@ -58,8 +58,6 @@ The USB camera, situated on the second floor of the robot, provides a broader fi
 
 ## Android Mobile App
 An Android mobile phone is employed for manual control of the robot. It is connected to the Raspberry Pi via the Bluetooth protocol, allowing users to manually control the robot when necessary. Furthermore, the mobile phone serves as a display interface for viewing data regarding encountered objects, which is transmitted from the Raspberry Pi via the Google Firebase platform using Wi-Fi communication protocols.
-![image](https://github.com/baturalpguven/Autonomous-Cleaning-Robot-on-Raspberry-Pi/assets/77858949/1a420a87-a0f4-4864-92b1-00f6535a6e9f)
-
 
 
 <p align="center">
